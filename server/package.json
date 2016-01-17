@@ -1,0 +1,19 @@
+{
+  "name": "hacker-routes-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "casper": "^0.1.1",
+    "casperjs": "^1.1.0-beta3",
+    "cheerio": "^0.19.0",
+    "phantom": "^0.8.4",
+    "phantomjs": "^1.9.19",
+    "spooky": "^0.2.5"
+  }
+}
